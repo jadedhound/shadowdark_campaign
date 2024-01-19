@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <main class= "prose prose-zinc prose-invert p-2 max-w-3xl mx-auto w-screen">
+    <h1 class="text-6xl"> {{ page.title }} </h1>
+    <div class="italic"> {{ page.description }} </div>
+
+    {% if page.extra.cover_image %}
+
+    {% set image = page.extra.cover_image %}
+    {% set meta = get_image_metadata(path=image) %}
+    {% set small = resize_image(path=image, width=800, height=800, op="fit", format="webp", quality=70) %}
+
+    <picture>
+      <source media="(max-width: 768px)" srcset="{{ small.url }}">
+      <img 
+        class="mb-6 w-full rounded-lg"
+        src="{{ get_url(path=image, cachebust=true) }}" 
+        alt="cover"
+      >
+    </picture>
+    {% endif %}
+
+    {% include "partial/toc.html" %}
+
+    <article>
+      {{ page.content | safe }}
+    </article>
+
+    {# Need to give space for the scroll up FAB #}
+    <div class="psuedo h-12"></div>
+  </main>
+{% endblock content %}

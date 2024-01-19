@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="description" content="The custom ruleset and setting for our campaign">
+  <link rel="stylesheet" href="{{ get_url(path='styles.css', cachebust=true) | safe }}" />
+  <link rel="icon" type="image/svg" href="{{ get_url(path="favicon.svg") | safe }}">
+  <title>Shadowdark Campaign</title>
+</head>
+
+<body class="bg-zinc-900 text-zinc-200">
+    {% include "partial/navbar.html" %}
+
+    <div class="grid grid-cols-zero">
+      {% block content %} {% endblock %}
+
+      <a href="#" class="sticky place-self-end bottom-4 mr-4 mt-[100vh]" aria-label="Scroll back to the top of the page">
+        <div class="rounded-full bg-zinc-900 border border-zinc-200 p-2 shadow shadow-black">
+          <svg fill="none" viewBox="0 0 24 24" stroke-width="1.5" class="w-8 h-8 stroke-zinc-200">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 10.5 12 3m0 0 7.5 7.5M12 3v18" />
+          </svg>
+        </div>
+      </a>
+    </div>
+</body>
+
+</html>

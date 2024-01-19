@@ -1,0 +1,42 @@
+{% extends "base.html" %}
+
+{% block content %}
+<main class="p-2 flex flex-col gap-4">
+  <h1 class="text-6xl font-[OldLondon] text-center"> {{ section.title }} </h1>
+  {% if section.description %}
+  <div class="text-center italic text-sm"> {{ section.description }} </div>
+  {% endif %}
+
+  {% if section.content %}
+  <article class= "prose prose-zinc prose-invert p-2 w-full max-w-3xl mx-auto border-y-[6px] border-double border-yellow-600 my-4">
+    {{ section.content | safe }}
+  </article>
+  {% endif %}
+
+  <!-- If you are using pagination, section.pages will be empty. You need to use the paginator object -->  
+  {% for page in section.pages %}
+  <a href="{{ page.permalink | safe }}" class="md:max-w-3xl md:place-self-center w-full">
+    <div class="rounded bg-zinc-700 p-2">
+      {% if page.extra.cover_image %}
+
+        {% set image = page.extra.cover_image %}
+        {% set meta = get_image_metadata(path=image) %}
+        {% set small = resize_image(path=image, width=800, height=800, op="fit", format="webp", quality=70) %}
+        <picture>
+          <source media="(max-width: 768px)" srcset="{{ small.url }}">
+          <img 
+            class="h-auto w-full rounded-lg aspect-video object-cover block mb-2" 
+            src="{{ get_url(path=image, cachebust=true) }}" 
+            alt="cover"
+          >
+        </picture>
+      {% endif %}
+      <div class="text-2xl text-center font-bold"> {{ page.title }} </div>
+    </div>
+  </a>
+  {% endfor %}
+
+  {# Need to give space for the scroll up FAB #}
+  <div class="psuedo h-12"></div>
+</main>
+{% endblock content %}
