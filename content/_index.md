@@ -1,5 +1,5 @@
 +++
-title = "Welcome"
+title = "Shadowdark Campaign"
 description = "Something doesn't seem right with Heme..."
 template = "home.html"
 sort_subsections_by = "weight"
