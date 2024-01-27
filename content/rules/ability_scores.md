@@ -14,7 +14,7 @@ higher your strength the more likely you will succeed at strength based tasks.
 An ability is described with two terms: a score and a modifier. The ability
 score is a number (usually from 3 to 18) and the [modifier](#modifiers) is a
 smaller number, derived from the score (usually from -4 to +4), that we add and
-subtract from [dice checks](@/basics.md#checks).
+subtract from [dice checks](@/misc/basics.md#checks).
 
 ## Determining Scores
 

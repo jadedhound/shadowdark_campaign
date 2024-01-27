@@ -3,6 +3,7 @@ title = "Setting"
 template = "section.html"
 page_template = "page.html"
 sort_by = "weight"
+weight = 2
 +++
 
 ### Important Notes
