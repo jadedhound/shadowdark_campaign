@@ -1,6 +1,7 @@
 {
   "scripts": {
     "dev": "zola serve --interface 0.0.0.0 --base-url 192.168.1.20 & npx tailwindcss -i styles/styles.css -o static/styles.css --watch",
+    "pretty": "npx prettier --write content/ README.md",
     "prod": "NODE_ENV=production npx tailwindcss -i styles/styles.css -o static/styles.css --minify; zola build"
   },
   "dependencies": {
