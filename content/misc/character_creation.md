@@ -3,7 +3,7 @@ title = "Character Creation"
 description = "A quick guide to character creation."
 weight = 1
 [extra] 
-cover_image = "images/the-adventure-begins.webp"
+cover_image = "images/skeleton-and-commoners.webp"
 +++
 
 1. Determine [ability scores](@/rules/ability_scores.md) by rolling for them

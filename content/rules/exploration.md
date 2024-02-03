@@ -78,8 +78,7 @@ are surprised by all encounters, spring every trap and cannot map the
 environment.
 
 It’s important to never be caught in total darkness, so bring plenty of light
-sources. Typically having candles and lanterns as backup to torches. All light
-sources below last for 1 hour of real-world time.
+sources. Typically having candles and lanterns as backup to torches.
 
 **Torches.** Sheds bright light (40'/10'). Allows for faster searching due to
 bright light but burns out when depletion is rolled as a hazard.
@@ -101,9 +100,9 @@ At the end of each turn, roll the Dungeon Hazard Die and apply the result.
 
 | d6  | Hazard                                                                           |
 | --- | -------------------------------------------------------------------------------- |
-| 1   | encounter                                                                        |
-| 2   | fatigue: Each party member takes damage unless they spend the next watch resting |
+| 1   | Encounter                                                                        |
+| 2   | Fatigue: each party member takes damage unless they spend the next watch resting |
 | 3   | Burn: lit torches begin to flicker out                                           |
-| 4   | dungeon shift: the dungeon environment changes                                   |
-| 5   | sign: The players find a sign that an encounter or a hidden item is nearby       |
-| 6   | free: No effect                                                                  |
+| 4   | Dungeon shift: the dungeon environment changes                                   |
+| 5   | Sign: the players find a sign that an encounter or a hidden item is nearby       |
+| 6   | Free: no effect                                                                  |

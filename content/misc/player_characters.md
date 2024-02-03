@@ -2,7 +2,7 @@
 title = "Player Characters"
 description = "Those that are foolish and brave enough to go where into the dark."
 [extra] 
-cover_image = "images/skeleton-and-commoners.webp"
+cover_image = "images/the-adventure-begins.webp"
 +++
 
 # Active

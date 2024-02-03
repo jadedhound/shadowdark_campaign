@@ -6,9 +6,6 @@ weight = 2
 cover_image = "images/town-of-adventure.webp"
 +++
 
-If this is your first time playing **_Shadowdark RPG_** , it’s helpful to start
-with a premade character. Several adventurers are included with this book.
-
 ## Characters
 
 You decide your character’s actions and tell them to the referee, or Game Master

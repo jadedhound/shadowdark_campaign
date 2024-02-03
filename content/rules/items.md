@@ -61,13 +61,16 @@ for one-handed and the second is for 2 handed.
 
 ## Light
 
-| Item                        | Cost |
-| --------------------------- | ---- |
-| Candle, 2 hours (dim light) | 1    |
-| Lantern                     | 30   |
-| Lantern Oil, 2 hours        | 1    |
-| Tinderbox                   | 10   |
-| Torch, 1 hour               | 1    |
+| Item                    | Cost |
+| ----------------------- | ---- |
+| Candle (dim light)      | 1    |
+| Lantern                 | 30   |
+| Lantern Oil (dim light) | 1    |
+| Tinderbox               | 10   |
+| Torch                   | 1    |
+
+Read the [light rules](@/rules/exploration.md#light-and-darkness) to better
+understand the differences between the above 3 sources.
 
 ## Adventuring Items
 
