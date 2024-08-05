@@ -6,18 +6,26 @@ weight = 1
 cover_image = "images/blacksmiths-shop.webp"
 +++
 
-## Quickstart: Crawling Kit
+## Starter's Kit
 
-A crawling kit contains what most adventures require. It costs 90 cp and uses 7
-gear slots. Buy a [weapon](#weapons) and [armour](#armour) to round out your
-equipment list.
+A starter's kit contains what most adventures require.
 
-- Tinderbox
-- 2 x Torches (1 hour)
+#### Key Items
+
+- A [weapon](#weapons) of your choice
+- An [armour](#armour) of your choice or an additional weapon
+- 3 x Torches (1 hour)
 - 3 x Rations (1 day)
 - Iron Spikes (10 pack)
 - Grappling hook
 - Rope, 50 ft.
+- 3d6 coins
+
+#### Misc Items
+
+- Tinderbox
+- One man tent
+- Bedroll
 
 ## Weapons
 
@@ -49,28 +57,14 @@ for one-handed and the second is for 2 handed.
 
 ## Armour
 
-| Item       | Cost | Slots | AC  | Properties                         |
-| ---------- | ---- | ----- | --- | ---------------------------------- |
-| Shield     | 40   | 1     | +1  | Held                               |
-| Gambeson   | 40   | 1     | 12  |                                    |
-| Brigandine | 500  | 1     | 13  |                                    |
-| Chain      | 1200 | 2     | 14  | Disadv. on stealth and swimming    |
-| Half plate | 4000 | 3     | 15  | No swimming and disadv. on stealth |
-| Full plate | 8000 | 3     | 16  | No swimming and disadv. on stealth |
-| Mithril    | x4   | -1    |     | No penalty to stealth or swimming  |
-
-## Light
-
-| Item                    | Cost |
-| ----------------------- | ---- |
-| Candle (dim light)      | 1    |
-| Lantern                 | 30   |
-| Lantern Oil (dim light) | 1    |
-| Tinderbox               | 10   |
-| Torch                   | 1    |
-
-Read the [light rules](@/rules/exploration.md#light-and-darkness) to better
-understand the differences between the above 3 sources.
+| Item       | Cost | Slots | AC | Properties                         |
+| ---------- | ---- | ----- | -- | ---------------------------------- |
+| Shield     | 40   | 1     | +1 | Held                               |
+| Gambeson   | 40   | 1     | 12 |                                    |
+| Brigandine | 500  | 1     | 13 |                                    |
+| Chain      | 1200 | 2     | 14 | Disadv. on stealth and swimming    |
+| Half plate | 4000 | 3     | 15 | No swimming and disadv. on stealth |
+| Full plate | 8000 | 3     | 16 | No swimming and disadv. on stealth |
 
 ## Adventuring Items
 
@@ -137,6 +131,7 @@ understand the differences between the above 3 sources.
 | Tar (Pot)               | 10   |
 | Tent (3 man)            | 100  |
 | Tent (personal)         | 50   |
+| Torch                   | 1    |
 | Twine (300 ft)          | 5    |
 | Waterskin               | 5    |
 | Whistle                 | 5    |

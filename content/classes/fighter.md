@@ -11,15 +11,13 @@ cover_image = "images/fighter.webp"
 
 **Hit Points:** 1d8 per level
 
-**Hauler.** Add your Constitution modifier, if positive, to your gear slots.
+**Grit (Passive).** Choose Strength or Dexterity. You have advantage on checks of that
+type to overcome an opposing force, such as kicking open a stuck door (Strength)
+or slipping free of rusty chains (Dexterity).
 
 **Weapon Mastery.** Choose one type of weapon, such as longswords. You gain +1
 to attack and damage with that weapon type. In addition, add half your level to
 these rolls (round down).
-
-**Grit.** Choose Strength or Dexterity. You have advantage on checks of that
-type to overcome an opposing force, such as kicking open a stuck door (Strength)
-or slipping free of rusty chains (Dexterity).
 
 ## Fighter Talents
 

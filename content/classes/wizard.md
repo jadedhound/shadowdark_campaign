@@ -11,8 +11,7 @@ cover_image = "images/wizard.webp"
 
 **Hit Points:** 1d4 per level
 
-**Languages.** You know two additional common languages and two rare languages
-(see pg. 29).
+**Languages.** You know one rare language.
 
 **Learning Spells.** You can permanently learn a wizard spell from a spell
 scroll by studying it for a day and succeeding on a DC 15 Intelligence check.

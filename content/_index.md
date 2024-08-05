@@ -1,8 +1,6 @@
 +++
 title = "Shadowdark Campaign"
-description = "Something doesn't seem right with Heme..."
+description = "Perhaps the Alderheart's luminescent canopy can protect us from the terrors outside"
 template = "home.html"
-sort_subsections_by = "weight"
+sort_by = "weight"
 +++
-
-**Next Session.** 30th January (Wednesday) @ Jon and Steph's place.

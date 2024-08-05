@@ -36,21 +36,20 @@ live in the wilds, but are treated poorly humans they live alongside.
 
 ## Elf
 
-Names. Based on Celtic.
+**Names.** Based on Celtic.
 
-Lightborne. Elves have a deep connection to light magic. They shed faint light
-from their irises and a whole body tattoo like birthmark.
+**Lightborne.** Elves have a deep connection to light magic. They shed faint light
+from their irises and a whole body tattoo like birthmark. Roll spellcasting checks 
+with advantage whenever you cast any light based spell.
 
-Roll spellcasting checks with advantage whenever you cast any light based spell.
+**Pacifists.** Elves abhor violence and raise the blade in defence only.
 
-Pacifists. Elves abhor violence and raise the blade in defence only.
+**Classes.** Can be either a cleric or wizard.
 
-Classes. Can be either a cleric or wizard.
-
-History. Elves and humans were once allies but when humanity started twisting
+**History.** Elves and humans were once allies but when humanity started twisting
 their magic for warfare the elves distanced themselves, retreating to their
 respective Lightwells.
 
 ## Halfling
 
-Burrow. Retractable blunt claws that can burrow in loamy soil.
+**Burrow.** Retractable blunt claws that can burrow in loamy soil.

@@ -13,19 +13,8 @@ are distinct points on that journey where you gain tangible benefits.
 
 ## Level Advancement
 
-To gain a level, you need to earn your
-
-```
-current level x 1000 XP
-```
-
-**Gold as XP.** The most common way to gain XP is to _waste_ coin, gaining 1 XP
-for each copper piece spent this way. An act is considered _wasteful_ if it does
-not directly benefit your character in any way.
-
-Try to waste your coin in a way that reinforces your character's motivations.
-For instance, the local drunk might spend his coin by organising a party at the
-tavern or a cleric might send funds on establishing a temple in the area.
+To gain a level, you need to earn _10 XP._ The most common way to gain XP
+is find treasure, you get 1 XP for small finds and 3 XP for any large hoards.
 
 Once you reach a new level:
 

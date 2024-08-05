@@ -7,7 +7,7 @@ cover_image = "images/cleric.webp"
 
 **Weapons:** Club, crossbow, dagger, mace, longsword, staff, warhammer
 
-**Armor:** All armor and shields
+**Armour:** All armor and shields
 
 **Hit Points:** 1d6 per level
 
