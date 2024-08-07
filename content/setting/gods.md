@@ -6,22 +6,46 @@ weight = 2
 cover_image = "images/phenax.webp"
 +++
 
-# Human Pantheon
+## Moradin, the Allhammer
 
-## Bellathor, Jackal of War and Courage
+_Lawful_
 
-_"We follow the bell, we serve the fang."_
+God of the smith, creation and dwarves.
 
-Manifests as a anthromorphic jackal wielding a large bell as a mace and the
-symbol of his order is that of a golden bell in the middle of a bright sun.
+## Celestine, the Lawbringer
 
-The clergymen of Ballathor make public demonstrations of martial prowess as an
-offering; especially in times of war.
+_Lawful_
 
-# Elvish Pantheon
+God of justice and righteousness, appears in the form of a hawk-headed knight
+and has a small yet militant following.
 
-## Celestine, God of the Justice
+## Ioun, the Knowning Mother
 
-Appears in the form of a hawk-headed knight. Although originally an elvish
-diety, Celestine's small yet militant following amongst the humans has largely
-been what has defined her in the current age.
+_Neutral_
+
+God of knowledge, prophecy, magic and the equilibrium.
+
+## Ord, the Unbending
+
+_Neutral_
+
+God of storms, battle and warfare.
+
+## Shune, the Vile
+
+_Chaotic_
+
+God of secrets, forgotten knowledge and magic. She schemes to displace Ioun so
+she can control the vast flow of magic herself.
+
+## Mung, the Final One
+
+_Chaotic_
+
+God of death, pestilence and suffering.
+
+## THE LOST
+
+Gods lost to the ages, their names expunged from history and memory. Yet their
+whispered legend lingers on in ancient, forbidden texts and secret, deep
+places...

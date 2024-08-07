@@ -29,22 +29,20 @@ A starter's kit contains what most adventures require.
 
 ## Weapons
 
-| Weapon        | Cost | Damage   | Properties        |
+| Weapon        | Coin | Damage   | Properties        |
 | ------------- | ---- | -------- | ----------------- |
-| Bastard sword | 20   | 1d8/1d10 | 2 slots           |
-| Club          | 5    | 1d4      |                   |
-| Crossbow      | 15   | 1d8      | 2 handed, Loading |
-| Dagger        | 5    | 1d4      | Finesse, thrown   |
-| Greataxe      | 20   | 1d8/1d10 | 2 slots           |
-| Greatsword    | 30   | 1d12     | 2 slots, 2 handed |
-| Javelin       | 1    | 1d4      | Thrown only       |
-| Longbow       | 15   | 1d6      | 2 handed          |
-| Mace          | 10   | 1d6      |                   |
-| Shortbow      | 10   | 1d4      | 2 handed          |
-| Spear         | 5    | 1d6      | Thrown            |
-| Staff         | 5    | 1d4      | 2 handed          |
-| Warhammer     | 20   | 1d10     | 2 handed          |
-| Arrows (20)   | 5    |          |                   |
+| Bastard sword | 2   | 1d8/1d10 | 2 slots           |
+| Crossbow      | 2   | 1d8      | 2 handed, Loading |
+| Dagger        | 1    | 1d4      | Finesse, thrown   |
+| Greataxe      | 2   | 1d8/1d10 | 2 slots           |
+| Greatsword    | 3   | 1d12     | 2 slots, 2 handed |
+| Longbow       | 2   | 1d6      | 2 handed          |
+| Mace          | 1   | 1d6      |                   |
+| Shortbow      | 1   | 1d4      | 2 handed          |
+| Spear         | 1    | 1d6      | Thrown            |
+| Staff         | 1    | 1d4      | 2 handed          |
+| Warhammer     | 2   | 1d10     | 2 handed          |
+| Arrows (20)   | 1    |          |                   |
 
 **Loading.** You must forgo moving to reload this weapon.
 
@@ -57,81 +55,53 @@ for one-handed and the second is for 2 handed.
 
 ## Armour
 
-| Item       | Cost | Slots | AC | Properties                         |
+| Item       | Coin | Slots | AC | Properties                         |
 | ---------- | ---- | ----- | -- | ---------------------------------- |
-| Shield     | 40   | 1     | +1 | Held                               |
-| Gambeson   | 40   | 1     | 12 |                                    |
-| Brigandine | 500  | 1     | 13 |                                    |
-| Chain      | 1200 | 2     | 14 | Disadv. on stealth and swimming    |
-| Half plate | 4000 | 3     | 15 | No swimming and disadv. on stealth |
-| Full plate | 8000 | 3     | 16 | No swimming and disadv. on stealth |
+| Shield     | 4   | 1     | +1 | Held                               |
+| Gambeson   | 4   | 1     | 12 |                                    |
+| Brigandine | 50  | 1     | 13 |                                    |
+| Chain      | 120 | 2     | 14 | Disadv. on stealth and swimming    |
+| Half plate | 400 | 3     | 15 | No swimming and disadv. on stealth |
+| Full plate | 800 | 3     | 16 | No swimming and disadv. on stealth |
 
 ## Adventuring Items
 
-| Tools & Gear            | Cost |
+| Tools & Gear            | Coin |
 | ----------------------- | ---- |
-| Air Bladder             | 5    |
-| Bear Trap               | 20   |
-| Bedroll                 | 10   |
-| Bellows                 | 10   |
-| Black Grease            | 1    |
-| Block and Tackle        | 30   |
-| Book (Blank)            | 300  |
-| Book (Reading)          | 600  |
+| Bear Trap               | 2   |
+| Bellows                 | 1   |
+| Block and Tackle        | 3   |
 | Bottle/Vial             | 1    |
-| Bucket                  | 5    |
-| Caltrops (bag)          | 10   |
-| Cards with an extra Ace | 5    |
-| Chain (10 ft)           | 10   |
+| Caltrops (bag)          | 1   |
+| Chain (10 ft)           | 1   |
 | Chalk (10 pieces)       | 1    |
-| Chisel                  | 5    |
-| Cookpots                | 10   |
-| Crowbar                 | 10   |
-| Drill                   | 10   |
-| Face Paint/Makeup       | 10   |
-| Fake Jewels             | 50   |
-| Fishing Rod/Tackle      | 10   |
-| Glass Marbles (bag)     | 5    |
-| Glue (bottle)           | 1    |
-| Grappling Hook          | 10   |
-| Hammer                  | 10   |
-| Holy Water              | 25   |
-| Horn                    | 10   |
-| Hourglass               | 300  |
-| Incense (packet)        | 10   |
-| Iron Tongs              | 10   |
-| Ladder (10 ft)          | 10   |
-| Large Sponge            | 5    |
-| Lens                    | 100  |
-| Lockpicks               | 100  |
-| Manacles                | 10   |
-| Metal File              | 5    |
-| Mirror (small, silver)  | 200  |
-| Musical Instrument      | 200  |
-| Nails (12)              | 5    |
-| Net                     | 10   |
-| Oilskin Bag             | 5    |
-| Oilskin Trousers        | 10   |
-| Padlock and Key         | 20   |
-| Perfume                 | 50   |
-| Pick                    | 10   |
-| Pole (10ft)             | 5    |
-| Quill and Ink           | 1    |
-| Rope (50ft)             | 10   |
-| Sack                    | 1    |
-| Saw                     | 10   |
-| Set of Loaded Dice      | 5    |
-| Shovel                  | 10   |
-| Small Bell              | 20   |
-| Soap                    | 1    |
-| Spike (iron)            | 5    |
-| Spike (wood)            | 1    |
-| Spiked boots            | 5    |
-| Spyglass                | 1000 |
-| Tar (Pot)               | 10   |
-| Tent (3 man)            | 100  |
-| Tent (personal)         | 50   |
-| Torch                   | 1    |
-| Twine (300 ft)          | 5    |
-| Waterskin               | 5    |
-| Whistle                 | 5    |
+| Chisel                  | 1    |
+| Crowbar                 | 1   |
+| Drill                   | 1   |
+| Glass Marbles (bag)     | 1    |
+| Grappling Hook          | 1   |
+| Hammer                  | 1   |
+| Horn                    | 1   |
+| Hourglass               | 30  |
+| Iron Tongs              | 1   |
+| Ladder (10 ft)          | 1   |
+| Lockpicks               | 10  |
+| Manacles                | 1   |
+| Metal File              | 1    |
+| Mirror (small, silver)  | 20  |
+| Musical Instrument      | 20  |
+| Nails (12)              | 1    |
+| Net                     | 1   |
+| Oilskin Bag             | 1    |
+| Padlock and Key         | 2   |
+| Pick                    | 1   |
+| Pole (10ft)             | 1    |
+| Rope (50ft)             | 1   |
+| Saw                     | 1   |
+| Shovel                  | 1   |
+| Small Bell              | 2   |
+| Spike (iron)            | 1    |
+| Tar (Pot)               | 1   |
+| Torch (3)                   | 1    |
+| Twine (300 ft)          | 1    |
+| Whistle                 | 1    |

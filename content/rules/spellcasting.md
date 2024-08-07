@@ -11,21 +11,12 @@ cover_image = "images/alchemist.webp"
 Casting a spell takes your action. Only characters with the spellcasting talent
 can cast spells.
 
-To cast a spell, make a spellcasting check by rolling
+To cast a spell, make a spellcasting check by rolling **1d20 + your class' main
+ability modifier**.
 
-```
-1d20 + your class' main ability modifier,
-```
+The DC to successfully cast a spell is **10 + the spell’s tier**.
 
-i.e. Wizards use intelligence and clerics use wisdom.
-
-The DC to successfully cast a spell is
-
-```
-10 + the spell’s tier
-```
-
-# Results
+## Results
 
 If you succeed on your spellcasting check, the spell takes effect.
 
@@ -66,13 +57,13 @@ member) only displeases your deity further and makes the spell loss permanent.
 
 ### Penance Values
 
-| Spell Tier | Value  |
-| ---------- | ------ |
-| 1          | 5 sp   |
-| 2          | 20 sp  |
-| 3          | 40 sp  |
-| 4          | 90 sp  |
-| 5          | 150 sp |
+| Spell Tier | Coins |
+| ---------- | ----- |
+| 1          | 50    |
+| 2          | 200   |
+| 3          | 400   |
+| 4          | 900   |
+| 5          | 1500  |
 
 ## Wild Magic
 
