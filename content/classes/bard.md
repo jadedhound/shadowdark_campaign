@@ -7,7 +7,7 @@ cover_image = "images/bard.webp"
 
 **Weapons:** Crossbow, dagger, mace, shortbow, shortsword, spear, staff
 
-**Armour:** Leather armor, chainmail, shields
+**Armour:** Gambeson, brigandine, shields
 
 **Hit Points:** 1d6 per level
 

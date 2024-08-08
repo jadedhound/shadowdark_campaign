@@ -7,7 +7,7 @@ cover_image = "images/ranger.webp"
 
 **Weapons:** Dagger, longbow, longsword, shortbow, shortsword, spear, staff
 
-**Armour:** Leather armor, chainmail
+**Armour:** Gambeson, brigandine
 
 **Hit Points:** 1d8 per level
 

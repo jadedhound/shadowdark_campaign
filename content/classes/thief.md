@@ -5,9 +5,9 @@ description = "Rooftop assassins, grinning con artists, or cloaked cat burglars 
 cover_image = "images/thief.webp"
 +++
 
-**Weapons:** Club, crossbow, dagger, shortbow, shortsword
+**Weapons:** Crossbow, dagger, shortbow, shortsword
 
-**Armor:** Leather armor, mithral chainmail
+**Armor:** Gambeson
 
 **Hit Points:** 1d4 per level
 
