@@ -11,7 +11,7 @@ cover_image = "images/bard.webp"
 
 **Hit Points:** 1d6 per level
 
-**Languages.** You know two additional common languages and one rare language.
+**Languages.** You know one additional common and rare [language](@/rules/languages.md).
 
 **Bardic Arts.** You're trained in oration, performing arts, lore, and diplomacy.
 You have advantage on related checks.
